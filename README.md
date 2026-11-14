@@ -7,7 +7,6 @@ El código está en un repositorio privado. Este repo existe solo para que cualq
 sin cuenta de GitHub.
 
 - **Última versión**: pestaña [Releases](../../releases).
-- **Web**: <https://contravoz.redderlabs.com>
 
 ## Por qué hay una versión fuera de Google Play
 
